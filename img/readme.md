@@ -1,1 +1,1 @@
-Imagenes usadas en el readme del repositorio principal.
+## Imagenes usadas en el readme del repositorio principal.
