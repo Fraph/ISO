@@ -1,4 +1,4 @@
 # Obras
 
 
-![Obras](img/obras.jpg)
+![Obras](img/ermita.png)
