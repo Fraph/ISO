@@ -11,31 +11,32 @@ Viñas.
 
 * La iglesia de San Juan, en Baños de Cerrato (Palencia) de tipo basilical latino.
 
-![Obras](img/Ermita.png)
+![Obras](img/BasilicaSanJuan.jpg)
 
 
 * Las iglesias de San Martín y de Santa Comba de Bande, ambas de Orense y de tipo
 más o menos bizantino en forma de cruz griega.
 
-![Obras](img/Ermita.png)
+![Obras](img/IglesiaSantaComba.jpg)
 
 
 * La iglesia de San Pedro de la Nave (Zamora), como participando de uno y otro tipo.
 
-![Obras](img/Ermita.png)
+![Obras](img/IgleasiaSanPedro.jpg)
 
 
 * La capilla de San Fructuoso de Montelius en Braga, Portugal.
 
-![Obras](img/Ermita.png)
+![Obras](AyuntamientoBraga.jpg)
 
 
 * La iglesia de Santa Lucía del Trampal en Alcuéscar, Cáceres.
 
-![Obras](img/Ermita.png)
+![Obras](img/BasilicaSantaLucia.jpg)
 
 
 La Iglesia de Santa María de Melque de San Martín de Montalbán (Toledo).
 
+![Obras](img/ErmitaSantaMaria.jpg)
 
 
