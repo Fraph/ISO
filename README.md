@@ -6,6 +6,6 @@ la Galia y controlaran algunos territorios en Hispania.
 
 ## Indice
 
-  1.Epoca
-  2.Arquitectura
-  3.Obras mas significativas
+1. Epoca
+2. Arquitectura
+3. Obras mas significativas
